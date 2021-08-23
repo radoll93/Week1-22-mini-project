@@ -1,0 +1,58 @@
+header{
+    text-align: right;
+    background-color: darkgreen;
+    padding: 5px;
+}
+
+
+li{
+    display: inline;
+    color: white;
+    margin: 10px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img{
+    position: relative;
+    top: 0px;
+    margin: 0% auto;
+    text-align: center;
+}
+
+.section2{
+    background-color: peachpuff;
+    border-color: rgb(207, 123, 50);
+    text-align: center;
+}
+
+#contactbox{
+    padding-top: 20px;
+}
+
+.inputbox{
+    color: black;
+    display: block;
+}
+
+div{
+    border: 5px solid rgb(204, 148, 122);
+    display: inline-block;
+    border-radius: 20px;
+
+    
+}
+
+footer{
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
+    padding: 20px;
+}
